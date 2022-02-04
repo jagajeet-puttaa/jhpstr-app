@@ -6,8 +6,23 @@ Main page styles
   display: inline-block;
   width: 347px;
   height: 497px;
-  background: url('../../content/images/jhipster_family_member_1.svg') no-repeat center top;
+  background: url('../../content/images/batman-main.jpg') no-repeat center top;
   background-size: contain;
+}
+
+.batman-logo {
+  width: 90px;
+  height: 90px;
+  margin: auto;
+  border-radius: 50%;
+  margin: 1em;
+  padding: 0.5em;
+}
+
+.batman-logo-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 /* wait autoprefixer update to allow simple generation of high pixel density media query */

@@ -1,17 +1,17 @@
 {
   "home": {
-    "title": "Welcome, Java Hipster!",
-    "subtitle": "This is your homepage",
+    "title": "Batman",
+    "subtitle": " \" It's not who I am underneath, but what I do that defines me.\"",
     "logged": {
       "message": "You are logged in as user \"{{username}}\"."
     },
-    "question": "If you have any question on JHipster:",
+    "question": "Character Facts : ",
     "link": {
-      "homepage": "JHipster homepage",
-      "stackoverflow": "JHipster on Stack Overflow",
-      "bugtracker": "JHipster bug tracker",
-      "chat": "JHipster public chat room",
-      "follow": "follow @jhipster on Twitter"
+      "homepage": "Alias/Alter Ego : Bruce Wayne",
+      "stackoverflow": "Dark Knight, Caped Crusader, Matches Malone",
+      "bugtracker": "Base of Operations : Gotham City",
+      "chat": "Occupation : CEO of Wayne Enterprises",
+      "follow": "Powers : exceptional martial artist, combat strategy, inexhaustible wealth, brilliant deductive skill, advanced technology"
     },
     "like": "If you like JHipster, don't forget to give us a star on",
     "github": "GitHub"
